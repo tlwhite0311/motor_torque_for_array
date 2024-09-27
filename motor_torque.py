@@ -54,3 +54,6 @@ print('T_snow = ' + str(round(T_aero, 3)) + str(' [N*m]'))
 print('T_f = ' + str(round(T_f, 3)) + str(' [N*m]'))
 print('T_total = ' + str(round(T_total, 3)) + str(' [N*m]'))
 print('T_motor = ' + str(round(T_motor, 3)) + str(' [N*m]'))
+
+
+#Test Change
