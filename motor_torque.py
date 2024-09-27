@@ -14,6 +14,7 @@ mu_tube = .25  # Coefficient of friction on tube
 z = .15  # Distance from center of rotation to panel CG
 theta = 60  # Angle of panel
 gear_ratio = 1 / 10  # Gear ratio of gearbox
+
 # Calculate Forces
 
 F_aero = 0.5 * rho_air * (v ** 2) * G_cp * A  # Aerodynamic force on panel [N]
